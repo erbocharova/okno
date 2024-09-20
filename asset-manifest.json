@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//erbocharova.github.io/okno/static/css/main.ff2eb038.css",
+    "main.js": "/https//erbocharova.github.io/okno/static/js/main.fc8e78c9.js",
+    "static/js/453.5fd503fd.chunk.js": "/https//erbocharova.github.io/okno/static/js/453.5fd503fd.chunk.js",
+    "index.html": "/https//erbocharova.github.io/okno/index.html",
+    "main.ff2eb038.css.map": "/https//erbocharova.github.io/okno/static/css/main.ff2eb038.css.map",
+    "main.fc8e78c9.js.map": "/https//erbocharova.github.io/okno/static/js/main.fc8e78c9.js.map",
+    "453.5fd503fd.chunk.js.map": "/https//erbocharova.github.io/okno/static/js/453.5fd503fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff2eb038.css",
+    "static/js/main.fc8e78c9.js"
+  ]
+}
